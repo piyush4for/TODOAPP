@@ -6,7 +6,7 @@ Quick Start
 -----------
 
 ```shell
-$ git clone 
+$ git clone https://github.com/piyush4for/TODOAPP
 $ cd TODOAPP
 $ npm install
 $ npm start
